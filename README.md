@@ -30,7 +30,7 @@ B. Untuk Mahasiswa
 
 
 
-Tampilan Halaman Dashboard untuk admin 
+Tampilan dari aplikasi
 1. Tampilan login Untuk mahasiswa dan Admin 
 ![login](https://user-images.githubusercontent.com/90679683/150348522-840046b6-1b12-4750-9ef3-1677a0956196.png)
 2. dasbord admin
