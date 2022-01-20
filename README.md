@@ -16,6 +16,7 @@ Development Team
 
 
 Fitur-fitur
+
 A. Untuk Admin
   1. Bisa melihat berapa banyak mahsiswa dari 2 jurusan 
   2. Bisa menginput, mengedit dan menghapus data mahasiswa
