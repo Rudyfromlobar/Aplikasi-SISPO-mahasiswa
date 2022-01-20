@@ -1,10 +1,10 @@
 # Aplikasi-SISPO-mahasiswa
 
 Teknologi yang digunakan
-Front End : HTML,css, Bootstrap
-Backend : PHP 
-Javascript : Javascript
-Bootstrap Theme By [Nice Admin]
+1. Front End : HTML,css, Bootstrap
+2. Backend : PHP 
+3. Javascript : Javascript
+4. Bootstrap Theme By [Nice Admin]
 
 Development Team
 1. Rudi Irawan (TI17200047) :  Project Manager & backend Development
@@ -18,7 +18,14 @@ Development Team
 Fitur
 A. Untuk Admin
   1. Bisa melihat berapa banyak mahsiswa dari 2 jurusan 
-  2. Bisa mengimput , mengedit dan 
+  2. Bisa menginput, mengedit dan menghapus data mahasiswa
+  3. menginputkan jadwal untuk setiap prodi, tapi belum untuk persemester,
+  4. menginputkan nilai untuk mahasiswa
+
+B. Untuk Mahasiswa
+  1. Bisa melihat data diri
+  2. bisa melihat jadwal
+  3. bisa melihat nilai 
 
 
 
