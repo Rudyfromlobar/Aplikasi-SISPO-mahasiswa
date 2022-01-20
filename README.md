@@ -14,7 +14,7 @@ Development Team
 6. Cici Tri Wulandari (TI17200011) : Microservice
 
 
-Fitur-Fitur
+# Fitur-Fitur
 
 A. Untuk Admin
   1. Bisa melihat berapa banyak mahsiswa dari 2 jurusan 
@@ -31,7 +31,7 @@ B. Untuk Mahasiswa
 
 # Tampilan dari aplikasi
 A. Tampilan login Untuk mahasiswa dan Admin 
-![login](https://user-images.githubusercontent.com/90679683/150348522-840046b6-1b12-4750-9ef3-1677a0956196.png)
+  ![login](https://user-images.githubusercontent.com/90679683/150348522-840046b6-1b12-4750-9ef3-1677a0956196.png)
 
 B.
   1. Dasbord admin
