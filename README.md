@@ -1,5 +1,27 @@
 # Aplikasi-SISPO-mahasiswa
 
+Teknologi yang digunakan
+Front End : HTML,css, Bootstrap
+Backend : PHP 
+Javascript : Javascript
+Bootstrap Theme By [Nice Admin]
+
+Development Team
+1. Rudi Irawan (TI17200047) :  Project Manager & backend Development
+2. Ahmad Maulana hadinata (TI17200003) : Backend Development
+3. Ihza Dirgantara Aji (TI17200015) : Front End Development
+4. Indra Cahyadi Putra (TI17200060) : Front End Development
+5. Baiq Umi Kalsum (TI17200007) : Microservice
+6. Cici Tri Wulandari (TI17200011) : Microservice
+
+
+Fitur
+A. Untuk Admin
+  1. Bisa melihat berapa banyak mahsiswa dari 2 jurusan 
+  2. Bisa mengimput , mengedit dan 
+
+
+
 Tampilan Halaman Dashboard untuk admin 
 1. Tampilan login Untuk mahasiswa dan Admin 
 ![login](https://user-images.githubusercontent.com/90679683/150348522-840046b6-1b12-4750-9ef3-1677a0956196.png)
@@ -21,12 +43,6 @@ tampilan untuk mahasiswa
 ![tampilan-nilai-mhs](https://user-images.githubusercontent.com/90679683/150352425-5d81b30b-92ae-4f6f-bb94-ea10f24803b2.png)
 
 Oleh kelompok terakhir
-1. Rudi Irawan (TI17200047)
-2. Ahmad Maulana hadinata (TI17200003)
-3. Ihza Dirgantara Aji (TI17200015)
-4. Indra Cahyadi Putra (TI17200060)
-5. Baiq Umi Kalsum (TI17200007)
-6. Cici Tri Wulandari (TI17200011)
 
 
 Kami mohon Maaf untuk aplikasi kami ini belum lengkap pitur-piturnya,
