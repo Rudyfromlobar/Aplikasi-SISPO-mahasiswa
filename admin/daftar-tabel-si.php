@@ -1,6 +1,6 @@
 <?php
 	//Koneksi Database
-    include 'koneksi.php';
+    include '../koneksi.php';
 	//jika tombol simpan diklik
 	if(isset($_POST['bsimpan']))
 	{

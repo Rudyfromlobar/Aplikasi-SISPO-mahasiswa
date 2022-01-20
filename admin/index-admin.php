@@ -1,13 +1,3 @@
-<?php
-    session_start();
-    if($_SESSION['level']=="") {
-        header("Location: ../admin/index-admin.php");
-    }
-
-    elseif ($_SESSION['level']=="petugas") {
-        header("Location: ../mhs/users-profile-mhs.php");
-    }
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -115,13 +105,13 @@
     <main id="main" class="main">
 
 <?php
-    include 'koneksi.php';
+    include '../koneksi.php';
     $jumlah = mysqli_query($host, "SELECT * FROM mahasiswa where nipd like 'TI%'");
     $mhs = mysqli_num_rows($jumlah);
 ?>
 
 <?php
-    include 'koneksi.php';
+    include '../koneksi.php';
     $banyak = mysqli_query($host, "SELECT * FROM mahasiswa where nipd like 'SI%'");
     $aku = mysqli_num_rows($banyak);
 ?>

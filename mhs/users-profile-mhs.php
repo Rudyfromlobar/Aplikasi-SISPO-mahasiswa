@@ -1,15 +1,3 @@
-<?php
-    session_start();
-    if($_SESSION['level']=="admin") {
-        header("Location: ../admin/index-admin.php");
-    }
-
-    elseif ($_SESSION['level']=="") {
-        header("Location: ../mhs/users-profile-mhs.php");
-    }
-
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,9 +9,10 @@
 
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-    <link href="assets/bootstrap/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/bootstrap/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 
 
   <link href="assets/css/style.css" rel="stylesheet">
@@ -98,7 +87,7 @@
 
                                     <div class="row">
                                         <div class="col-lg-3 col-md-4 label text-primary ">Nama</div>
-                                        <div class="col-lg-9 col-md-8 label "></div>
+                                        <div class="col-lg-9 col-md-8 label ">Ahmad Maulana Hadinata</div>
                                     </div>
 
                                     <div class="row">
@@ -113,7 +102,7 @@
 
                                     <div class="row">
                                         <div class="col-lg-3 col-md-4 pt-2 label text-primary ">Alamat</div>
-                                        <div class="col-lg-9 col-md-8 label "></div>
+                                        <div class="col-lg-9 col-md-8 label ">Kopang</div>
                                     </div>
 
                                     <div class="row">
@@ -139,6 +128,8 @@
 
     </main> 
  
+    <script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/main.js"></script>
 
 </body>

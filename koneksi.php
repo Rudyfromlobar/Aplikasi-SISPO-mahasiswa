@@ -2,5 +2,5 @@
 
     $host = mysqli_connect("localhost","root","");
 
-    $db = mysqli_select_db($host,"tutorial");
+    $db = mysqli_select_db($host,"akademik");
 ?>

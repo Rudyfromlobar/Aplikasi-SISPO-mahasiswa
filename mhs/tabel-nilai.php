@@ -7,14 +7,11 @@
 
     <title>STMIK</title>
 
-    <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-    <link href="assets/bootstrap/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/bootstrap/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-
-    <!--Main CSS File -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
@@ -201,8 +198,10 @@
 
     </main>
 
+    <script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/main.js"></script>
-  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
 </body>
 
 </html>
