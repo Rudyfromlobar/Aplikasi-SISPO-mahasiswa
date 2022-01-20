@@ -42,7 +42,7 @@ Tampilan dari aplikasi
 5. tampilan input nilai mhs
 ![input nilai](https://user-images.githubusercontent.com/90679683/150352038-a31ee45e-ce80-4025-90c2-a406ead088ac.png)
 
-tampilan untuk mahasiswa
+Tampilan untuk mahasiswa
 1. Tampilan user profile
 ![dashbord-mhs](https://user-images.githubusercontent.com/90679683/150352256-31e051dd-b2ba-4a5d-b2db-df39ab019c16.png)
 2. Tampilan jadwal untuk mhs
@@ -50,7 +50,6 @@ tampilan untuk mahasiswa
 3. tampilan nilai untuk mhs
 ![tampilan-nilai-mhs](https://user-images.githubusercontent.com/90679683/150352425-5d81b30b-92ae-4f6f-bb94-ea10f24803b2.png)
 
-Oleh kelompok terakhir
 
 
 Kami mohon Maaf untuk aplikasi kami ini belum lengkap pitur-piturnya,
