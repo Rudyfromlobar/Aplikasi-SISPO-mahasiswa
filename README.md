@@ -15,7 +15,7 @@ Development Team
 6. Cici Tri Wulandari (TI17200011) : Microservice
 
 
-Fitur
+Fitur-fitur
 A. Untuk Admin
   1. Bisa melihat berapa banyak mahsiswa dari 2 jurusan 
   2. Bisa menginput, mengedit dan menghapus data mahasiswa
