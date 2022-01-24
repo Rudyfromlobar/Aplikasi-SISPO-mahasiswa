@@ -6,7 +6,7 @@ Teknologi yang digunakan
 3. Javascript : Javascript
 
 Development Team
-1. Rudi Irawan (TI17200047) :  Project Manager & backend Development
+1. Rudi Irawan (TI17200047) :  Project Manager & Backend Development
 2. Ahmad Maulana hadinata (TI17200003) : Backend Development
 3. Ihza Dirgantara Aji (TI17200015) : Front End Development
 4. Indra Cahyadi Putra (TI17200060) : Front End Development
